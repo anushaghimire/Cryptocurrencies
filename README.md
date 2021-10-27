@@ -10,6 +10,7 @@ I used four technical analysis to complete the project:
 - Visualized Cryptocurrencies Results
 
 ## Results:
+After creating a new data frame from preprocessed dataframe, reducing data dimensions using PCA, and Clustered Cryptocurrencies Using K-means, I ploted the hvplot scatter plot with x="TotalCoinsMined", y="TotalCoinSupply", and by="Class" and CoinName as the hover datapoint as shown in figure below.
 
 <img width="918" alt="Screen Shot 2021-10-27 at 3 19 25 PM" src="https://user-images.githubusercontent.com/85364095/139155538-42b2e6d0-b7b2-4c99-84be-84b26cf763a4.png">
 
