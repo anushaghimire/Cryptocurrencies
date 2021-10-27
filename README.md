@@ -9,8 +9,6 @@ I used four technical analysis to complete the project:
 - Clustered Cryptocurrencies Using K-means
 - Visualized Cryptocurrencies Results
 
+## Results:
+### Deliverable 1
 
-
-# Results
-
-# Summary
