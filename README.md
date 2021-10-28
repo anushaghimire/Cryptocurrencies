@@ -13,6 +13,9 @@ I used four technical analysis to complete the project:
 After creating a new data frame from preprocessed dataframe, reducing data dimensions using PCA, and Clustered Cryptocurrencies Using K-means, I ploted the hvplot scatter plot with x="TotalCoinsMined", y="TotalCoinSupply", and by="Class" and CoinName as the hover datapoint as shown in figure below.
 
 <img width="918" alt="Screen Shot 2021-10-27 at 3 19 25 PM" src="https://user-images.githubusercontent.com/85364095/139155538-42b2e6d0-b7b2-4c99-84be-84b26cf763a4.png">
+- 3D plot:
+
+<img width="849" alt="Screen Shot 2021-10-27 at 5 14 19 PM" src="https://user-images.githubusercontent.com/85364095/139165100-2e3e1463-d5a6-4296-a104-5165f3ee53c4.png">
 
 ## Summary 
 By looking at the scatter plot above we can see that most of the coins mined and supplied are acattered within 20% line. 
